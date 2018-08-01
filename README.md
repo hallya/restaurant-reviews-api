@@ -10,15 +10,15 @@ Development platform
 ---
 ###### Install project dependancies
 ```
-# npm i
+npm i
 ```
 ###### Install Docker
 [Download Docker here](https://docs.docker.com/docker-for-mac/install/)
 ###### Run Docker
 ```
-# docker-compose up
+docker-compose up
 ```
 ###### Run nodemon
 ```
-# nodemon index.js
+nodemon index.js
 ```
