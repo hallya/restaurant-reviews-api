@@ -14,7 +14,7 @@ Development platform
 npm i
 ```
 ###### Install Docker
-[Download Docker here](https://docs.docker.com/docker-for-mac/install/)
+[Download Docker Community Edition here](https://docs.docker.com/docker-for-mac/install/)
 ###### Run Docker
 ```
 docker-compose up
