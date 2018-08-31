@@ -1,14 +1,14 @@
 # Restaurant Reviews API Server
 ---
 ## Architecture
----
+
 Local server
 - Node.js
 
 Development platform
 - Docker
 ## Getting Started
----
+
 ###### Install project dependancies
 ```
 $ npm i
